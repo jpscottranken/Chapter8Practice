@@ -1,0 +1,10 @@
+C:\Users\jpscott\Desktop\Chapter8Practice\Practice08\Practice08-01\bin\Debug\Practice08-01.exe.config
+C:\Users\jpscott\Desktop\Chapter8Practice\Practice08\Practice08-01\bin\Debug\Practice08-01.exe
+C:\Users\jpscott\Desktop\Chapter8Practice\Practice08\Practice08-01\bin\Debug\Practice08-01.pdb
+C:\Users\jpscott\Desktop\Chapter8Practice\Practice08\Practice08-01\obj\Debug\Practice08-01.csproj.AssemblyReference.cache
+C:\Users\jpscott\Desktop\Chapter8Practice\Practice08\Practice08-01\obj\Debug\Practice08_01.frmOddsAndEvens.resources
+C:\Users\jpscott\Desktop\Chapter8Practice\Practice08\Practice08-01\obj\Debug\Practice08_01.Properties.Resources.resources
+C:\Users\jpscott\Desktop\Chapter8Practice\Practice08\Practice08-01\obj\Debug\Practice08-01.csproj.GenerateResource.cache
+C:\Users\jpscott\Desktop\Chapter8Practice\Practice08\Practice08-01\obj\Debug\Practice08-01.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\Chapter8Practice\Practice08\Practice08-01\obj\Debug\Practice08-01.exe
+C:\Users\jpscott\Desktop\Chapter8Practice\Practice08\Practice08-01\obj\Debug\Practice08-01.pdb
